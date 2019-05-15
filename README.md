@@ -30,4 +30,5 @@ There are three types of problems in backtracking:
 
 ## References
 [https://see.stanford.edu/materials/icspacs106b/H19-RecBacktrackExamples.pdf](https://see.stanford.edu/materials/icspacs106b/H19-RecBacktrackExamples.pdf)
+
 [https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/](https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/)
