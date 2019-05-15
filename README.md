@@ -20,6 +20,9 @@ The expected output for this problem is a binary array which has 1s for the bloc
 ```
 
 ## Compilation
+
+First, compile it 
+
 ```
 javac NQueenProblem.java
 ```
