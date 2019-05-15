@@ -27,3 +27,6 @@ There are three types of problems in backtracking:
 * Decision Problem – searching for a feasible solution.
 * Optimization Problem – searching for the best solution.
 * Enumeration Problem – finding all feasible solutions.
+
+## References
+[https://see.stanford.edu/materials/icspacs106b/H19-RecBacktrackExamples.pdf](https://see.stanford.edu/materials/icspacs106b/H19-RecBacktrackExamples.pdf)
