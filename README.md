@@ -10,13 +10,13 @@ The expected output for this problem is a binary array which has 1s for the bloc
 
 ```
       {0, 0, 0, 0, 0, 0, 0, 0}
-			{0, 0, 0, 0, 0, 0, 0, 0} 
-			{0, 0, 0, 0, 0, 0, 0, 0} 
-			{0, 0, 0, 0, 0, 0, 0, 0}
-			{0, 0, 0, 0, 0, 0, 0, 0}
-			{0, 0, 0, 0, 0, 0, 0, 0}
-			{0, 0, 0, 0, 0, 0, 0, 0}
-			{0, 0, 0, 0, 0, 0, 0, 0} 
+      {0, 0, 0, 0, 0, 0, 0, 0} 
+      {0, 0, 0, 0, 0, 0, 0, 0} 
+      {0, 0, 0, 0, 0, 0, 0, 0}
+      {0, 0, 0, 0, 0, 0, 0, 0}
+      {0, 0, 0, 0, 0, 0, 0, 0}
+      {0, 0, 0, 0, 0, 0, 0, 0}
+      {0, 0, 0, 0, 0, 0, 0, 0} 
 ```
 
 
@@ -24,6 +24,6 @@ The expected output for this problem is a binary array which has 1s for the bloc
 Backtracking is an algorithmic-technique for solving problems recursively by trying to build a solution incrementally, one piece at a time, removing those solutions that fail to satisfy the constraints of the problem at any point of time (by time, here, is referred to the time elapsed till reaching any level of the search tree).
 
 There are three types of problems in backtracking:
-  1.) Decision Problem – searching for a feasible solution.
-  2.) Optimization Problem – searching for the best solution.
-  3.) Enumeration Problem – finding all feasible solutions.
+* Decision Problem – searching for a feasible solution.
+* Optimization Problem – searching for the best solution.
+* Enumeration Problem – finding all feasible solutions.
