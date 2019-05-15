@@ -1,4 +1,4 @@
-# N-Queen Problem Using Backtracking Algorithm
+# N-Queen Problem Using Backtracking Algorithm with Java
 The N-Queen Problem is the problem of placing N queens on an N×N chessboard such that none of them attack one another (no two are in the same row, column, or diagonal).  More specifically, I am solving this problem with placing eight queens on 8x8 chessboard.
 
 There are different solutions for solving this problem, but I am using Backtracking algorithm. 
@@ -19,6 +19,30 @@ The expected output for this problem is a binary array which has 1s for the bloc
       {0, 0, 0, 0, 0, 0, 0, 0} 
 ```
 
+## Compilation
+```
+javac NQueenProblem.java
+```
+
+then
+
+```
+java NQueenProblem
+```
+
+## Output
+
+```
+ 1  0  0  0  0  0  0  0
+ 0  0  0  0  0  0  1  0
+ 0  0  0  0  1  0  0  0
+ 0  0  0  0  0  0  0  1
+ 0  1  0  0  0  0  0  0
+ 0  0  0  1  0  0  0  0
+ 0  0  0  0  0  1  0  0
+ 0  0  1  0  0  0  0  0
+ 
+```
 
 ## Introduction to Backtracking
 Backtracking is an algorithmic-technique for solving problems recursively by trying to build a solution incrementally, one piece at a time, removing those solutions that fail to satisfy the constraints of the problem at any point of time (by time, here, is referred to the time elapsed till reaching any level of the search tree).
@@ -32,3 +56,11 @@ There are three types of problems in backtracking:
 [https://see.stanford.edu/materials/icspacs106b/H19-RecBacktrackExamples.pdf](https://see.stanford.edu/materials/icspacs106b/H19-RecBacktrackExamples.pdf)
 
 [https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/](https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/)
+
+
+## Author
+
+* Vedat Apuk
+
+
+
